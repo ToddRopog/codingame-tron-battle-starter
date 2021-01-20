@@ -1,2 +1,2 @@
-# codingame-tron-battle-starter
-Starter project for CodinGame Tron Battle
+# codingame-tron-battle
+Codingame Tron Battle Bot
